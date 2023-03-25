@@ -1,4 +1,4 @@
-<img src = "ezgif.com-gif-maker.gif" width = "1080">
+<img src = "yellowline.gif" width = "1080">
 
 <h1 align="center">Hi , I'm Jasper!</h1>
 
@@ -131,4 +131,4 @@
 
 <div align='center'></div>
 
-<img src = "ezgif.com-gif-maker.gif" width = "1080">
+<img src = "yellowline.gif" width = "1080">
